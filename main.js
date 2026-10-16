@@ -1,7 +1,7 @@
 allRandomColor();
 
 var eventCounter = 0;
-var stopIt = new Audio("/stop_it_meme.mp3");
+var stopIt = new Audio("stop_it_meme.mp3");
 
 for (i = 0; i < document.querySelectorAll(".childe").length; i++) {
 	document
